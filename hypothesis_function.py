@@ -12,5 +12,5 @@ def sigmoid_function(theta):
     denom = 1+ np.power(math.e ,-theta)
     print(1/denom)
     return 1/denom
-def 
+
 
